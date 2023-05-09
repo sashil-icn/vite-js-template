@@ -67,15 +67,15 @@ module.exports = {
         50: '50vh',
       },
       colors: {
-        // primary: {
-        //   900: '#072E47', // dark
-        //   700: '#3575BB', //Darker
-        //   500: '#6F8FAC', // mid
-        //   400: '#03A9F4',
-        //   300: '#B2C0D2', //damp
-        //   200: '#E6F6FE', // extralight
-        //   danger: '#E46363 ',
-        // },
+        blue: {
+          900: '#072E47', // dark
+          700: '#3575BB', //Darker
+          500: '#6F8FAC', // mid
+          400: '#03A9F4',
+          300: '#B2C0D2', //damp
+          200: '#E6F6FE', // extralight
+          danger: '#E46363 ',
+        },
         white: '#fff',
         black: '#111',
         transparent: 'transparent',

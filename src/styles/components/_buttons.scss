@@ -1,0 +1,11 @@
+.btn-primary {
+  @apply hover:shadow-md rounded text-center text-sm lg:text-base font-bold leading-6 bg-blue-700 text-white hover:text-white cursor-pointer;
+}
+
+.btn-outline {
+  @apply rounded border text-xs md:text-base border-white hover:bg-white;
+}
+
+.btn-teal {
+  @apply bg-teal-default text-white rounded-md hover:text-white hover:shadow-md;
+}
