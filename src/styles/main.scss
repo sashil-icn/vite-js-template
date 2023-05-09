@@ -4,9 +4,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@import 'common/variables';
-@import 'common/global';
-@import 'common/typography';
-@import 'common/utilities';
+@import 'common/+.css';
 
-@import 'components/buttons'
+@import 'components/+.css'
