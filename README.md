@@ -18,6 +18,5 @@ Build and host in amazon s3 and point subdomain: onboard.agentcis.com (? confirm
   
 ## Figma Link
   
-Add figma link: 
-
+[Website Landing Page](https://www.figma.com/file/2q1HlNy4hOgc1eK3WKA3CZ/Website-Landing-Page?node-id=0-1&t=64D19Jb10ZuXH65d-0)
 
